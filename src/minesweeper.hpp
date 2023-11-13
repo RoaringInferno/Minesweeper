@@ -44,6 +44,11 @@ namespace minesweeper {
         * Displays a board of Xs, for the beginning of the game.
         */
         void initialDisplay();
+
+        /*
+        * Gets the player's move.
+        */
+        Move getPlayerMove();
     };
 }
 
