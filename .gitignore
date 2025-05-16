@@ -1,0 +1,4 @@
+.ccle-cache/
+build/
+compile_commands.json
+log/
